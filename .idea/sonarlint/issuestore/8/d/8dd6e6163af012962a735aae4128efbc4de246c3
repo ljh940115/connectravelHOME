@@ -1,0 +1,20 @@
+
+`	java:S112*"FDefine and throw a dedicated exception instead of using a generic one.(á‹®”ùÿÿÿÿ
+Z	java:S112D"FDefine and throw a dedicated exception instead of using a generic one.(õà†Q
+[	java:S112T"FDefine and throw a dedicated exception instead of using a generic one.(‘ÛŒÍ
+`
+java:S1192-"JDefine a constant instead of duplicating this literal "resources" 3 times.(¬‘áî
+X
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S6813 "BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S6813#"BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S6813&"BRemove this field injection and use constructor injection instead.(êæÄŞ
+‡
+java:S1130*"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(á‹®”ùÿÿÿÿ
+
+java:S1130D"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(õà†Q

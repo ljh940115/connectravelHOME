@@ -1,0 +1,13 @@
+
+E
+java:S1066P"/Merge this if statement with the enclosing one.(Ä¨•
+k
+java:S6809-"UCall transactional methods via an injected dependency instead of directly via 'this'.(¬ÎÈ
+k
+java:S6809P"UCall transactional methods via an injected dependency instead of directly via 'this'.(Ä¨•
+i
+java:S6204‘"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ø÷ş®
+i
+java:S6204˜"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ø÷ş®
+i
+java:S6204Ÿ"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ø÷ş®

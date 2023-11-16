@@ -1,0 +1,35 @@
+
+L
+java:S3740Y"/Provide the parametrized type for this generic.(¡İ•Û8„Ìşç¼1
+R
+java:S3740œ"/Provide the parametrized type for this generic.(Ô¾Ğ°şÿÿÿÿ8„Ìşç¼1
+R
+java:S3740Ü"/Provide the parametrized type for this generic.(Ïä¼«øÿÿÿÿ8„Ìşç¼1
+M
+java:S3740ª"/Provide the parametrized type for this generic.(š§Êª8„Ìşç¼1
+v
+java:S2293f"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ğ—´8…Ìşç¼1
+w
+java:S2293«"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ğ—´8…Ìşç¼1
+i
+java:S1301"KReplace this "switch" statement by "if" statements to increase readability.(Ä“á8‡Ìşç¼1
+X	java:S125!"<This block of commented-out lines of code should be removed.(Î¿£ğ8ºÑşç¼1
+>	java:S131D""Add a default case to this switch.(Êø©é8½Ñşç¼1
+o
+java:S6204f"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(Ğ—´8ÁÑşç¼1
+X
+java:S1612f";Replace this lambda with method reference 'Tuple::toArray'.(Ğ—´8ÂÑşç¼1
+?	java:S131""Add a default case to this switch.(Ä“á8ÌÑşç¼1
+p
+java:S6204«"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(Ğ—´8ÒÑşç¼1
+Y
+java:S1612«";Replace this lambda with method reference 'Tuple::toArray'.(Ğ—´8ÓÑşç¼1
+u
+java:S3776¯"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(Š›ßÎûÿÿÿÿ8ÖÑşç¼1
+?	java:S131¼""Add a default case to this switch.(Ä“á8ÙÑşç¼1
+p
+java:S6204é"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ÍÁ¿§8İÑşç¼1
+p
+java:S3776í"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ª«¾ï8áÑşç¼1
+p
+java:S6204¼"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8ñÑşç¼1

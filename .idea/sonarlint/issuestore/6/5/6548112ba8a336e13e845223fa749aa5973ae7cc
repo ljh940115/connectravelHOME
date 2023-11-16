@@ -1,0 +1,17 @@
+
+o	java:S116""URename this field "ImgService" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õî £ûÿÿÿÿ
+S
+java:S1854)"=Remove this useless assignment to local variable "memberDTO".(¢ÜƒÚ
+W
+java:S1854("<Remove this useless assignment to local variable "username".(•‘ŒÕùÿÿÿÿ
+[
+java:S4684&"@Replace this persistent entity with a simple POJO or DTO object.(ÿ¶Øèýÿÿÿÿ
+H
+java:S1481("-Remove this unused "username" local variable.(•‘ŒÕùÿÿÿÿ
+D
+java:S1481)".Remove this unused "memberDTO" local variable.(¢ÜƒÚ
+V	java:S125-"<This block of commented-out lines of code should be removed.(ËøÌŠüÿÿÿÿ
+B
+java:S16020",Remove useless curly braces around statement(½æ‹Ž
+Š
+java:S11308"tRemove the declaration of thrown exception 'javassist.NotFoundException', as it cannot be thrown from method's body.(ÍŸ¾×

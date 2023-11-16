@@ -1,0 +1,13 @@
+
+J
+java:S1066%"/Merge this if statement with the enclosing one.(ôÄ•Åşÿÿÿÿ
+_
+java:S2259)"DA "NullPointerException" could be thrown; "member" is nullable here.(œåíâûÿÿÿÿ
+X
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ
+T
+java:S1612+">Replace this lambda with method reference 'Role::getRoleName'.(ˆ£
+h
+java:S6204."RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(Õ£ù×

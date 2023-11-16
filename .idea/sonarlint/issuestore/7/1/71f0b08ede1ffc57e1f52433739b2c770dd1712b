@@ -1,0 +1,15 @@
+
+Z	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(…˜›\
+t
+java:S2293."YReplace the type specification in this constructor call with the diamond operator ("<>").(Ç©ÉÉøÿÿÿÿ
+
+java:S1130"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(…˜›\
+[
+java:S6201"FReplace this instanceof check and cast with 'instanceof Member member'(µ¨”
+^
+java:S4201"IRemove this unnecessary null check; "instanceof" returns false for nulls.(µ¨”
+[
+java:S4684*"@Replace this persistent entity with a simple POJO or DTO object.(¢Š„Çúÿÿÿÿ
+c
+java:S4488)"HReplace "@RequestMapping(method = RequestMethod.PUT)" with "@PutMapping"(ÆÑ“åøÿÿÿÿ
+Q	java:S125,"<This block of commented-out lines of code should be removed.(Æ˜Ş¬

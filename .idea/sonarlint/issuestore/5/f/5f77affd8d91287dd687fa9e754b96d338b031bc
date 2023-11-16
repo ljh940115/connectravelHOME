@@ -1,0 +1,13 @@
+
+v
+java:S1488y"[Immediately return this expression instead of assigning it to the temporary variable "dto".(ÁäÐÚûÿÿÿÿ
+k
+java:S3655k"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(¿†Ù‡ýÿÿÿÿ
+^
+java:S1854^"CRemove this useless assignment to local variable "tourBoardReview".(­ý™˜ÿÿÿÿÿ
+O
+java:S1481^"4Remove this unused "tourBoardReview" local variable.(­ý™˜ÿÿÿÿÿ
+U
+java:S1854k":Remove this useless assignment to local variable "entity".(¿†Ù‡ýÿÿÿÿ
+F
+java:S1481k"+Remove this unused "entity" local variable.(¿†Ù‡ýÿÿÿÿ

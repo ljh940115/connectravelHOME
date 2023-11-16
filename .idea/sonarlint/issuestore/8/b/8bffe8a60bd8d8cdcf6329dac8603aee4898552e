@@ -1,0 +1,13 @@
+
+ˆ
+java:S1319#"sThe return type of this method should be an interface such as "Map" rather than the implementation "LinkedHashMap".(”ÎâC
+
+java:S13194"sThe return type of this method should be an interface such as "Map" rather than the implementation "LinkedHashMap".(½’ŸÍùÿÿÿÿ
+‰
+java:S1319<"sThe return type of this method should be an interface such as "Map" rather than the implementation "LinkedHashMap".(ƒ¯»²
+
+java:S1488W"dImmediately return this expression instead of assigning it to the temporary variable "accessIpList".(±”á¤ıÿÿÿÿ
+m
+java:S6204W"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(±”á¤ıÿÿÿÿ
+^
+java:S1612W"CReplace this lambda with method reference 'AccessIp::getIpAddress'.(±”á¤ıÿÿÿÿ

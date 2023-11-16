@@ -1,0 +1,13 @@
+
+X
+java:S6813#"BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S6813%"BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S6813'"BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S6813)"BRemove this field injection and use constructor injection instead.(êæÄŞ
+Z
+java:S1874!"DRemove this use of "WebSecurityConfigurerAdapter"; it is deprecated.(Ë¶Ï“
+>
+java:S11858"(Remove this method to simply inherit it.(È†‹

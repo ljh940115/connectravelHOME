@@ -1,0 +1,16 @@
+
+k
+java:S1192("IDefine a constant instead of duplicating this literal "category" 4 times.(“šÏÃúÿÿÿÿ8è¹şç¼1
+Z
+java:S18547"=Remove this useless assignment to local variable "memberDTO".(¢ÜƒÚ8ŠÇşç¼1
+^
+java:S18546"<Remove this useless assignment to local variable "username".(•‘ŒÕùÿÿÿÿ8ŒÇşç¼1
+]
+java:S46844"@Replace this persistent entity with a simple POJO or DTO object.(‡êÎŸ8’Çşç¼1
+O
+java:S14816"-Remove this unused "username" local variable.(•‘ŒÕùÿÿÿÿ8•Çşç¼1
+K
+java:S14817".Remove this unused "memberDTO" local variable.(¢ÜƒÚ8™Çşç¼1
+I
+java:S1602=",Remove useless curly braces around statement(½æ‹8¡Çşç¼1
+G	java:S106P"+Replace this use of System.out by a logger.(‹úÕÀ8¦Çşç¼1

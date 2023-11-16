@@ -1,0 +1,13 @@
+
+m
+java:S1192G"KDefine a constant instead of duplicating this literal " not found" 5 times.(ùíÍÁÿÿÿÿÿ8Ù–ƒÎ¼1
+M
+java:S14818"+Remove this unused "member" local variable.(Ò’¬ãşÿÿÿÿ8†—ƒÎ¼1
+U
+java:S1854M"8Remove this useless assignment to local variable "room".(½¶ÎÒ8‡—ƒÎ¼1
+F
+java:S1481M")Remove this unused "room" local variable.(½¶ÎÒ8Š—ƒÎ¼1
+]
+java:S1854‘":Remove this useless assignment to local variable "entity".(À“Ê«ùÿÿÿÿ8—ƒÎ¼1
+N
+java:S1481‘"+Remove this unused "entity" local variable.(À“Ê«ùÿÿÿÿ8‘—ƒÎ¼1

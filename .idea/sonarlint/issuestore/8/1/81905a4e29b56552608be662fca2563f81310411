@@ -1,0 +1,16 @@
+
+~
+java:S1488i"hImmediately return this expression instead of assigning it to the temporary variable "accommodationDTO".(¢ïµ
+
+java:S1488µ"eImmediately return this expression instead of assigning it to the temporary variable "accommodation".(¡»…­úÿÿÿÿ
+
+java:S1488Ö"hImmediately return this expression instead of assigning it to the temporary variable "accommodationDTO".(ÄŽá
+
+java:S1488ð"hImmediately return this expression instead of assigning it to the temporary variable "accommodationDTO".(ÄŽá
+>	java:S1081")Either remove or fill this block of code.(å¥ž‡
+n
+java:S6204˜"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(èÿÄêþÿÿÿÿ
+i
+java:S6204Ï"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹
+i
+java:S6204Ô"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹

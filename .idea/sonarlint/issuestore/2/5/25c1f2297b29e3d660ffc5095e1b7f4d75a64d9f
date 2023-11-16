@@ -1,0 +1,9 @@
+
+`	java:S112!"FDefine and throw a dedicated exception instead of using a generic one.(Ý§¶»øÿÿÿÿ
+[	java:S112-"FDefine and throw a dedicated exception instead of using a generic one.(Ÿ‰À¤
+Z
+java:S22598"DA "NullPointerException" could be thrown; "member" is nullable here.(¡¾Š’
+‡
+java:S1130!"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(Ý§¶»øÿÿÿÿ
+‚
+java:S1130-"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(Ÿ‰À¤
